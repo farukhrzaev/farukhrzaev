@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Django Rest Framework, WebSocket and Celery**
 
 - 📄 Know about my experiences
-**[rezume](https://drive.google.com/drive/folders/1dAdoG1w5ZsWYh8Eb5LPVuc20uKfDEk0L?usp=sharing)**
+**[CV](https://drive.google.com/drive/folders/1dAdoG1w5ZsWYh8Eb5LPVuc20uKfDEk0L?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

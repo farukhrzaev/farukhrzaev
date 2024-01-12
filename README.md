@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farukh Rzaev</h1>
-<h4 align="">I am a Python backend developer. I have experience in web application development using Django. I have came
-    to this after a year of active study at Stepik courses. There I practiced the basic concepts and capabilities of the
-    language, learned algorithms and OOP, mastered the basics of Django development and databases. I am currently
-    learning more in-depth Django development (DRF, Celery and WebSocket).
-    As an manufacturing engineer, I communicated closely with customers, demonstrated responsibility and effectiveness
-    in order to meet deadlines.
-    As an analyst, i worked a lot in a team, communicated closely with developers and filing testing reports to them.
+<h4 align="">A beginner Python Backend developer with experience writing a web application using Django
 </h4>
 
 - 🔭 I’m currently working on **[Psychologist's Blog](https://github.com/FarukhRzaev/psych_proj)**

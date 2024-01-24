@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farukh Rzaev</h1>
-<h4 align="">A beginner Python Backend developer with experience writing a web application using Django
+<h4 align="">Junior python Backend developer with experience writing a web application using Django
 </h4>
 
 - 🔭 I’m currently working on **[Psychologist's Blog](https://github.com/FarukhRzaev/psych_proj)**

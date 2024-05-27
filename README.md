@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Farukh Rzaev</h1>
-<h4 align="">I am a junior Python backend software developer experienced in developing web apps using Django. Prior to transitioning to software development, I worked as a design engineer, optimizing production processes, developing standardized requirements, and managing engineering projects. Additionally, I have experience as a systems analyst, where I tested an automated data collection service, prioritized software bugs, and developed bug fixing requirements
-</h4>
-
-
-Know about my experiences
-**[CV](https://drive.google.com/drive/folders/1dAdoG1w5ZsWYh8Eb5LPVuc20uKfDEk0L?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
